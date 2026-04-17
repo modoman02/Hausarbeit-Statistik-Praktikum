@@ -35,8 +35,6 @@ Der gesellschaftliche Zusammenhalt wird wesentlich durch die Struktur und Qualit
 
 Forschung zu Netzwerktypen und sozialem Zusammenhalt hebt hervor, dass **Homogenität** einerseits Vertrauensbildung, Stabilität und effiziente Koordination begünstigen kann, andererseits aber **Kontaktchancen über soziale Grenzen** (z. B. Bildung, Migration, Politik) reduziert und so Segregation verfestigt. Umgekehrt fördert **Heterogenität** die Exposition gegenüber alternativen Perspektiven, kann jedoch höhere Aushandlungskosten implizieren. In der Lebenslauf‑ und Altersforschung wurden LCA‑basierte **Netzwerktypologien** vielfach genutzt, um Muster sozialer Einbettung herauszuarbeiten und mit Wohlbefinden, Gesundheit oder Partizipation zu verbinden (z. B. Fiori et al., 2006; Miche et al., 2013). In der Kohäsionsforschung erlauben Netzwerktypen zudem Rückschlüsse auf **Brücken‑** (bridging) versus **Bindungskapital** (bonding) und die **Reichweite** individueller Informations‑ und Unterstützungsflüsse.
 
-Hier noch ein zwei Sätze mehr auf LCA eingehen als zentraler Bestandteil, weil sonst auch danach das Ziel der Bewertung und Klassenlösung usw. bisschen aus dem Kontext gerissen vorkommt.
-
 ## Forschungsfragen
 
 1. **Typisierung:** Welche latenten Klassen (Netzwerktypen) lassen sich im SCP identifizieren?  
@@ -56,7 +54,7 @@ Die Analysen basieren auf dem **German Social Cohesion Panel (SCP)** des Forschu
 
 ## Stichprobe und Gewichtung
 
-Die verfügbare **Bruttostichprobe** umfasst etwa (??) **N = 26.195** Beobachtungen. Zur Sicherung der Repräsentativität wurden **Design‑ und Poststratifizierungsgewichte** einbezogen (sofern verfügbar), welche zentrale **sozialstrukturelle Merkmale** (Alter, Geschlecht, Bildung, Region etc.) ausgleichen. Infolge strenger **Vollständigkeitskriterien** (listwise deletion) arbeiten die LCA‑Schätzungen mit **n = 9.848** vollständigen Fällen. Dieser Kompromiss gewährleistet konsistente Likelihood‑Berechnungen, geht aber mit Informationsverlust einher (siehe Limitationen).
+Die verfügbare **Bruttostichprobe** umfasst **N = 26.195** Beobachtungen. Zur Sicherung der Repräsentativität wurden **Design‑ und Poststratifizierungsgewichte** einbezogen (sofern verfügbar), welche zentrale **sozialstrukturelle Merkmale** (Alter, Geschlecht, Bildung, Region etc.) ausgleichen. Infolge strenger **Vollständigkeitskriterien** (listwise deletion) arbeiten die LCA‑Schätzungen mit **n = 9.848** vollständigen Fällen. Dieser Kompromiss gewährleistet konsistente Likelihood‑Berechnungen, geht aber mit Informationsverlust einher (siehe Limitationen).
 
 ## Variablen und Messung
 
@@ -93,8 +91,6 @@ Die LCA wurde für mehrere Kandidaten K ∈ {5, 7, 12} geschätzt. Als **Auswahl
 Das **7‑Klassen‑Modell** weist die **niedrigsten Informationskriterien** auf und erwies sich zugleich als **inhaltlich differenziert und noch gut kommunizierbar**. Das 12‑Klassen‑Modell erzielte keinen klaren inhaltlichen Mehrwert, litt jedoch unter sehr kleinen Klassen und erschwerter Interpretierbarkeit.
 
 ## Annahmen, Robustheit, Grenzen
-<!-- Well this is incredibly drafty. Lets see if we actually need it. -->
-
 - **Lokale Unabhängigkeit** kann bei nahe verwandten Items verletzt sein. Residualanalysen/Posterior‑Korrelationen können entsprechende Abweichungen anzeigen.  
 - **Skaleninvarianz**: Unterschiedliche Antwortstile könnten Klassenartefakte erzeugen. Sensitivitätsanalysen (z. B. Rekodierungen, Bündelungen) mildern dieses Risiko.  
 - **Gewichtete LCA** ist software‑ und implementierungsabhängig. Wir dokumentieren beide Pfade (deskriptiv gewichtet; LCA primär ungewichtet).  
@@ -180,4 +176,3 @@ Das **7‑Klassen‑Modell** bietet den **besten Kompromiss** aus statistischer 
 - A3. LCA‑Profilplots für 5‑, 7‑ und 12‑Klassen – Projektabbildungen  
 - A4. Übergangsdarstellung 5→7 Klassen (Alluvial/Sankey) – Projektabbildungen  
 - A5. Tabellen: Informationskriterien, Klassenanteile, Posterior‑Wahrscheinlichkeiten  
-
